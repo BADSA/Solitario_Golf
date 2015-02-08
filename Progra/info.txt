@@ -1,0 +1,6 @@
+//Solitario Golf desarrollado por BADSA corp SA, una aplicacion de Qt para el mundo
+//Porque no es solo codigo si no es una obra maestra.. :D
+//Desarrolladores: Daniel Solis Mendez.
+                   Melvin Alonso Elizondo Perez.
+
+//Finalizacion de Version 0.1 en Octubre 12 2013.
